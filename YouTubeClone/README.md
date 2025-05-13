@@ -24,5 +24,5 @@ This is a full-stack YouTube clone project built using MongoDB, Express, React, 
 
 ---
 
-## 📁 Folder Structure
+
 
